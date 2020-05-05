@@ -9,11 +9,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+//test sync
 
 namespace MySQL_Taak_Week2_V2
 {
     public partial class Form1 : Form
     {
+        int test = 1;
         ConnectionStringSettingsCollection connectionStringSettings = new ConnectionStringSettingsCollection();
         Dictionary<string, string> connStringsDict = new Dictionary<string, string>();
 
