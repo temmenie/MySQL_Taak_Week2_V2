@@ -1,0 +1,28 @@
+C:\Users\wim\source\repos\delegateDemo\bin\Debug\delegateDemo.exe.config
+C:\Users\wim\source\repos\delegateDemo\bin\Debug\delegateDemo.exe
+C:\Users\wim\source\repos\delegateDemo\bin\Debug\delegateDemo.pdb
+C:\Users\wim\source\repos\delegateDemo\obj\Debug\delegateDemo.csprojAssemblyReference.cache
+C:\Users\wim\source\repos\delegateDemo\obj\Debug\delegateDemo.Form1.resources
+C:\Users\wim\source\repos\delegateDemo\obj\Debug\delegateDemo.Properties.Resources.resources
+C:\Users\wim\source\repos\delegateDemo\obj\Debug\delegateDemo.csproj.GenerateResource.cache
+C:\Users\wim\source\repos\delegateDemo\obj\Debug\delegateDemo.exe
+C:\Users\wim\source\repos\delegateDemo\obj\Debug\delegateDemo.pdb
+C:\Users\wim\source\repos\preteaching\delegateDemo\bin\Debug\delegateDemo.exe.config
+C:\Users\wim\source\repos\preteaching\delegateDemo\bin\Debug\delegateDemo.exe
+C:\Users\wim\source\repos\preteaching\delegateDemo\bin\Debug\delegateDemo.pdb
+C:\Users\wim\source\repos\preteaching\delegateDemo\obj\Debug\delegateDemo.csprojAssemblyReference.cache
+C:\Users\wim\source\repos\preteaching\delegateDemo\obj\Debug\delegateDemo.Form1.resources
+C:\Users\wim\source\repos\preteaching\delegateDemo\obj\Debug\delegateDemo.Properties.Resources.resources
+C:\Users\wim\source\repos\preteaching\delegateDemo\obj\Debug\delegateDemo.csproj.GenerateResource.cache
+C:\Users\wim\source\repos\preteaching\delegateDemo\obj\Debug\delegateDemo.exe
+C:\Users\wim\source\repos\preteaching\delegateDemo\obj\Debug\delegateDemo.pdb
+C:\Users\Niels\Downloads\preteaching-master (1)\preteaching-master\delegateDemo\bin\Debug\delegateDemo.exe.config
+C:\Users\Niels\Downloads\preteaching-master (1)\preteaching-master\delegateDemo\bin\Debug\delegateDemo.exe
+C:\Users\Niels\Downloads\preteaching-master (1)\preteaching-master\delegateDemo\bin\Debug\delegateDemo.pdb
+C:\Users\Niels\Downloads\preteaching-master (1)\preteaching-master\delegateDemo\obj\Debug\delegateDemo.csprojAssemblyReference.cache
+C:\Users\Niels\Downloads\preteaching-master (1)\preteaching-master\delegateDemo\obj\Debug\delegateDemo.Form1.resources
+C:\Users\Niels\Downloads\preteaching-master (1)\preteaching-master\delegateDemo\obj\Debug\delegateDemo.Properties.Resources.resources
+C:\Users\Niels\Downloads\preteaching-master (1)\preteaching-master\delegateDemo\obj\Debug\delegateDemo.csproj.GenerateResource.cache
+C:\Users\Niels\Downloads\preteaching-master (1)\preteaching-master\delegateDemo\obj\Debug\delegateDemo.csproj.CoreCompileInputs.cache
+C:\Users\Niels\Downloads\preteaching-master (1)\preteaching-master\delegateDemo\obj\Debug\delegateDemo.exe
+C:\Users\Niels\Downloads\preteaching-master (1)\preteaching-master\delegateDemo\obj\Debug\delegateDemo.pdb
